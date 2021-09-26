@@ -1,6 +1,4 @@
 /.metadata/
-SB-Data-Jpa-App1/mvnw.cmd
-SB-Data-Jpa-App1/mvnw
-SB-Data-Jpa-App1/.mvn/wrapper/MavenWrapperDownloader.java
-SB-Data-Jpa-App1/.mvn/wrapper/maven-wrapper.properties
-SB-Data-Jpa-App1/.mvn/wrapper/maven-wrapper.jar
+/**/mvnw.*
+/**/.mvn/
+/**/mvnw
